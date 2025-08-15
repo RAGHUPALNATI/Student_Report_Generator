@@ -1,2 +1,2 @@
 # Student_Report_Generator
-report card generator based on marks 
+Report card generator based on marks 
